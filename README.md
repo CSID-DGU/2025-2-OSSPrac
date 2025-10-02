@@ -6,4 +6,4 @@ MLAC example
 
 Written by Seihee Park
 
-Date: 2025. 10. 2.
+Date: 2025. 10. 2. (Thu)
