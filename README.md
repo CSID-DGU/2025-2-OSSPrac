@@ -4,6 +4,6 @@ Machine Learning Access Control
 
 MLAC example
 
-Written by Kilsup Lee
+Written by kjh
 
-Date: 2025. 10. 2.(Thu)
+Date: 2025.10.2 (thu)
